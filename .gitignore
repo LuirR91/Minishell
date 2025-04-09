@@ -1,0 +1,15 @@
+.vscode/
+obj/
+*.o
+*.a
+*.swo
+*.swp
+.dist/
+.DS_Store
+infile
+in
+outfile
+out
+minishell
+a.out
+minishell_tester
